@@ -10,5 +10,5 @@ Air pollutants are being let out into the atmosphere from a variety of sources, 
 # Contibutors
 * Harshit Kumar Jain ([@harshitkumarj](https://github.com/harshitkumarj))
 * Mudit Bhandari ([@mudit2000](https://github.com/mudit2000))
-
+<br>
 <p><img src='AQI chart.png'>
